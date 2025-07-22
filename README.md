@@ -1,4 +1,4 @@
-**This 3D-printable vintage lens adapter allows users to place optical filters behind the camera lens. **
+**This 3D-printable vintage lens adapter allows users to place optical filters behind the camera lens**
 
 It has been designed because large specialty filters are expensive and sometimes don't exist while gel filters are fragile and easy to mount. It supports glass-filters with 1-3mm thickness and a 20-39mm diameter aswell as thin 1.5x1.5 inch filter squares.
 
