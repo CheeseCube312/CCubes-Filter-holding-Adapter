@@ -17,17 +17,17 @@ Supported camera mounts:
 Please read parts list and assembly instructions below.
 
 **Required Materials:**
-1x Generic "super slim" M42 to [camera mount] adapter (see linked photo)
-6x M2.5 heat insert
-4x Screws: M2.5 x 16mm Torx Flathead
-2x Screws: M2.5 x 6mm Torx Flathead
-Glue (I used Cyanoacrylate aka. "Superglue" for PLA/PETG)
+- 1x Generic "super slim" M42 to [camera mount] adapter (see linked photo)
+- 6x M2.5 heat insert
+- 4x Screws: M2.5 x 16mm Torx Flathead
+- 2x Screws: M2.5 x 6mm Torx Flathead
+- Glue (I used Cyanoacrylate aka. "Superglue" for PLA/PETG)
 
-**Required tools** 
-3D printer
-soldering iron (for heat inserts)
-fine screwdriver
-optional: lighter (to clean up the print)
+**Required tools:** 
+- 3D printer
+- soldering iron (for heat inserts)
+- fine screwdriver
+- optional: lighter (to clean up the print)
 
 **Building the adapter**:
 1. order the parts you need
