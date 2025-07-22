@@ -69,7 +69,3 @@ You are free to use, re-upload, modify and make commercial use of this project a
 The specific type of adapter plate this is all designed for:
 https://i.ebayimg.com/images/g/y7oAAOSwjWlhC49V/s-l1600.jpg
 
-
-More of my work can be found here:
-Github: https://github.com/CheeseCube312
-Instagram: https://www.instagram.com/workinprogress.photo/
