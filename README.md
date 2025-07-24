@@ -69,4 +69,7 @@ You are free to use, re-upload, modify and make commercial use of this project a
 The specific type of adapter plate this is all designed for:
 https://i.ebayimg.com/images/g/y7oAAOSwjWlhC49V/s-l1600.jpg
 
+
+
 Edit 23.07.2025: Fixed filter holder issue where sharp corners get stuck. Now rounded.
+Edit 24.07.2025: Fixed glass filter diameter, added tollerance for printing
