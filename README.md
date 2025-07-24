@@ -72,4 +72,5 @@ https://i.ebayimg.com/images/g/y7oAAOSwjWlhC49V/s-l1600.jpg
 
 
 Edit 23.07.2025: Fixed filter holder issue where sharp corners get stuck. Now rounded.
+
 Edit 24.07.2025: Fixed glass filter diameter, added tollerance for printing
