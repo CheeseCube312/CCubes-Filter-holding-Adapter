@@ -7,6 +7,7 @@ Both CAD and 3D-printing files are provided in .step and .3mf format respectivel
 Supported lens mounts:
 - M42
 - Minolta MD
+- Konica AR (modified design, not cross-compatible, thus seperate .zip file)
 - more will be added
 
 Supported camera mounts:
