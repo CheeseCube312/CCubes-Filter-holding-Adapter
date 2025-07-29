@@ -1,0 +1,41 @@
+**Why this adapter differs from the others?**
+
+1. Konica AR has a very short flange focal distance for a vintage SLR mount
+2. The aperture measuring pin protrude quite far from the back of the lens (~11mm)
+
+So, the adapter had to be modified so the fitler carrier clears the lens. The filter carrier still allows the use of up to 3mm thick 
+glass filters but doesn't have a retaining ring on the holding plate. It's significantly flatter so not cross-compatible.
+
+** PARTS LIST**
+
+- 6x M2.5 heat inserts (less than 3.5mm long)
+- 4x M2.5x14mm screw (flat top)
+- 2x M2.5x5mm screw (flat top)
+- glue (CA glue worked well on PETG/PLA)
+
+** BUILD INSTRUCTIONS **
+
+Adapter:
+1. Download and print the model
+2. melt heat-inserts into top piece holes (4x)
+3. add glue to mounting surface
+4. line up middle piece, place down
+5. add glue to next mounting surface
+6. line up bottom piece, place down
+7. stick M2.5x14mm through holes, screw everything together
+8. clean up squeeze-out if desired
+
+Filter carrier:
+1. Download
+2. Select carrier meant for your glass filter. If you don't have one just choose a big carrier (36mm+ for full-frame)
+3. Print
+4. melt M2.5 heat-inserts into main carrier plate
+5. screw M2.5 screw into heat-inserts to clean out any molten plastic
+
+
+Additional Tipps:
+- make sure your print has good layer adhesion!
+- print the top and bottom plates extra sturdy. They're particularly load bearing
+- test-fit parts before applying glue
+- let the glue cure properly! Can take more than a day with CA glue
+- be careful with heavy lenses
